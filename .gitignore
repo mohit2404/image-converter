@@ -4,7 +4,7 @@
 # ignore file directory
 /public/*
 /output
-/output.zip
+/output*.zip
 
 # ignore image-paths.js file
 /image-paths.js
